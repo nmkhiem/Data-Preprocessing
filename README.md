@@ -1,6 +1,6 @@
 # Data Preprocessing
 
-This project is completed at the Ho Chi Minh University of Sciences' Data Preprocessing class for the Data Science. We will not delve deep into problem analysis and observations based on domain knowledge. Instead, it will simply experiment with various methods mentioned in chapters 6 and 7 of the book "Python Machine Learning" by authors Sebastian Raschka and Vahid Mirjalili. 
+This project is completed at the Ho Chi Minh University of Sciences' Data Preprocessing class for the Data Science major. We will not delve deep into problem analysis and observations based on domain knowledge. Instead, it will simply experiment with various methods mentioned in chapters 6 and 7 of the book "Python Machine Learning" by authors Sebastian Raschka and Vahid Mirjalili. 
 
 ## Classification problem
 
