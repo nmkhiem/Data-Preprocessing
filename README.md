@@ -20,3 +20,6 @@ Classification problem for cancer dataset, using and comparing different algorit
 - Evaluate and tune the ensemble classifier based on the ROC curve
 - Bagging
 - Boosting
+
+# Reference
+**Python Machine Learning - Second Edition: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow** by Sebastian Raschka, Vahid Mirjalili
